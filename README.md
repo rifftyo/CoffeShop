@@ -1,4 +1,4 @@
-# ikycoffeshop
+# Coffe Shop
 
 A new Flutter project.
 
